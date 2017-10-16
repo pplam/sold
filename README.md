@@ -2,7 +2,7 @@
 An ehtereum contracts deployer built on top of solc.js & web3.js.
 ## Installation
 ~~~shell
-npm install sold
+npm install sol.d
 ~~~
 ## Usage
 ~~~javascript
