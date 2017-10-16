@@ -6,7 +6,7 @@ npm install sol.d
 ~~~
 ## Usage
 ~~~javascript
-const Deployer = require('sold')
+const Deployer = require('sol.d')
 const deployer = new Deployer({
   srcDir: 'your/contracts/path', // The path to your solidity source code, default to './contract'
   endpoint: 'http://{host}:{port}', // The address of your ethereum network node
