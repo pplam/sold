@@ -1,6 +1,6 @@
 {
   "name": "sol.d",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "An ehtereum contracts deployer built on top of solc.js & web3.js.",
   "main": "index.js",
   "directories": {
